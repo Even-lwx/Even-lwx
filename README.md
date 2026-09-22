@@ -25,6 +25,12 @@
 - 基于视觉的信标识别、路径规划与车模执行
 - 嵌入式系统调试、联调与比赛现场问题定位
 
+系统架构：
+
+<p align="center">
+  <img src="./assets/system-architecture.svg" width="100%" alt="飞跃雷区空地协同系统架构" />
+</p>
+
 项目原始团队仓库：
 
 [HDUASC-SmartCar-21st-FlyOverMinefield](https://github.com/ZhangStudyLife/HDUASC-SmartCar-21st-FlyOverMinefield)
