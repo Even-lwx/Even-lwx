@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" role="img" aria-labelledby="title desc">
+  <title id="title">全国冠军团队项目</title>
+  <desc id="desc">第 21 届全国大学生智能汽车竞赛飞跃雷区组全国总决赛冠军</desc>
+  <rect width="1000" height="230" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+  <rect x="0" y="0" width="12" height="230" rx="6" fill="#0b7285"/>
+  <circle cx="92" cy="115" r="54" fill="#e7f5f3"/>
+  <path d="M72 93h40v18H72zM78 111h28v38H78zM67 151h50" fill="none" stroke="#0b7285" stroke-width="7" stroke-linecap="round"/>
+  <text x="178" y="83" fill="#102a43" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="28" font-weight="700">第 21 届全国大学生智能汽车竞赛</text>
+  <text x="178" y="125" fill="#0b7285" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="26" font-weight="700">全国总决赛冠军 · 飞跃雷区组</text>
+  <text x="178" y="166" fill="#52606d" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="17">四旋翼无人机 × 车模 · 空地协同 · 视觉识别 · 路径规划</text>
+</svg>
