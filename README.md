@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="李文轩｜嵌入式系统开发" />
+  <img src="./assets/banner.svg" width="100%" alt="嵌入式系统开发｜智能车｜运动控制" />
 </p>
 
 <p align="center">
@@ -60,19 +60,72 @@
 ## 🧰 技术栈
 
 <p align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="李文轩的技术栈" />
+  <img src="./assets/tech-stack.svg" width="100%" alt="嵌入式系统开发技术栈" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/FreeRTOS-00AEEF?style=flat-square&logo=freertos&logoColor=white" />
-  <img src="https://img.shields.io/badge/PID_控制-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/传感器融合-059669?style=flat-square" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧩 嵌入式平台**
+
+<p>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/AURIX-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/TRAVEO-0b7285?style=flat-square" />
+<img src="https://img.shields.io/badge/STC32%2F8051-374151?style=flat-square" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+**⚙️ 实时系统与控制**
+
+<p>
+<img src="https://img.shields.io/badge/FreeRTOS-00AEEF?style=flat-square&logo=freertos&logoColor=white" />
+<img src="https://img.shields.io/badge/PID_控制-7c3aed?style=flat-square" />
+<img src="https://img.shields.io/badge/EKF-6d28d9?style=flat-square" />
+<img src="https://img.shields.io/badge/传感器融合-059669?style=flat-square" />
+<img src="https://img.shields.io/badge/电机控制-d97706?style=flat-square" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🐧 系统与工具**
+
+<p>
+<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Keil-3949AB?style=flat-square" />
+<img src="https://img.shields.io/badge/IAR-1f2937?style=flat-square" />
+<img src="https://img.shields.io/badge/ADS-0b7285?style=flat-square" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+**🧠 算法与感知**
+
+<p>
+<img src="https://img.shields.io/badge/IMU-2563eb?style=flat-square" />
+<img src="https://img.shields.io/badge/计算机视觉-db2777?style=flat-square" />
+<img src="https://img.shields.io/badge/路径规划-0891b2?style=flat-square" />
+<img src="https://img.shields.io/badge/滤波算法-16a34a?style=flat-square" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ## 📮 联系我
 
