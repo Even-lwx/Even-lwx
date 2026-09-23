@@ -71,7 +71,7 @@
 
 **🧩 嵌入式平台**
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
 <img src="https://img.shields.io/badge/AURIX-111827?style=flat-square" />
@@ -84,7 +84,7 @@
 
 **⚙️ 实时系统与控制**
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/FreeRTOS-00AEEF?style=flat-square&logo=freertos&logoColor=white" />
 <img src="https://img.shields.io/badge/PID_控制-7c3aed?style=flat-square" />
 <img src="https://img.shields.io/badge/EKF-6d28d9?style=flat-square" />
@@ -99,7 +99,7 @@
 
 **🐧 系统与工具**
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Keil-3949AB?style=flat-square" />
@@ -112,7 +112,7 @@
 
 **🧠 算法与感知**
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/IMU-2563eb?style=flat-square" />
 <img src="https://img.shields.io/badge/计算机视觉-db2777?style=flat-square" />
 <img src="https://img.shields.io/badge/路径规划-0891b2?style=flat-square" />
