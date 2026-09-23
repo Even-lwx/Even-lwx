@@ -11,7 +11,7 @@
 <p align="center"><b>杭州电子科技大学</b> · 嵌入式系统 · 智能车 · 运动控制 · 传感器融合</p>
 
 <p align="center">
-  <a href="#全国冠军项目">🏆 冠军项目</a>　·　<a href="#精选项目">🚀 精选项目</a>　·　<a href="#技术栈">🧰 技术栈</a>　·　<a href="#联系我">📮 联系我</a>
+  <a href="#全国冠军项目">🏆 冠军项目</a>　·　<a href="#技术栈">🧰 技术栈</a>　·　<a href="#联系我">📮 联系我</a>
 </p>
 
 ---
@@ -57,39 +57,6 @@
   <img src="./assets/system-architecture.svg" width="100%" alt="飞跃雷区空地协同系统架构" />
 </p>
 
-## 🚀 精选项目
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ADS124S08_RTD_Acq
-ADS124S08 温度采集与 RTD 应用。
-
-<a href="https://github.com/Even-lwx/ADS124S08_RTD_Acq"><img src="https://img.shields.io/badge/查看项目-0b7285?style=for-the-badge&logo=github" /></a>
-
-### HookWeightModule
-嵌入式吊钩称重模块。
-
-<a href="https://github.com/Even-lwx/HookWeightModule"><img src="https://img.shields.io/badge/查看项目-0b7285?style=for-the-badge&logo=github" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### ai8051-esc
-基于 8051 的电调项目。
-
-<a href="https://github.com/Even-lwx/ai8051-esc"><img src="https://img.shields.io/badge/查看项目-0b7285?style=for-the-badge&logo=github" /></a>
-
-### lwx-smartcar2025
-智能车项目实践。
-
-<a href="https://github.com/Even-lwx/lwx-smartcar2025"><img src="https://img.shields.io/badge/查看项目-0b7285?style=for-the-badge&logo=github" /></a>
-
-</td>
-</tr>
-</table>
-
 ## 🧰 技术栈
 
 <p align="center">
@@ -115,4 +82,3 @@ ADS124S08 温度采集与 RTD 应用。
 </p>
 
 <p align="center"><sub>把想法做成能飞、能跑、能稳定工作的系统。</sub></p>
-
