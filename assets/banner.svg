@@ -20,7 +20,7 @@
     <circle cx="78" cy="76" r="7" fill="#b7f0e8"/>
     <circle cx="1034" cy="72" r="7" fill="#b7f0e8"/>
   </g>
-  <text x="600" y="112" fill="#ffffff" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="48" font-weight="700">Embedded Systems</text>
+  <text x="600" y="112" fill="#ffffff" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="48" font-weight="700">if-else</text>
   <text x="600" y="158" fill="#d8fff8" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="24">嵌入式系统开发 · 智能车 · 运动控制</text>
   <text x="600" y="207" fill="#ffffff" fill-opacity=".78" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="16">HANGZHOU DIANZI UNIVERSITY  /  EMBEDDED SYSTEMS</text>
 </svg>
