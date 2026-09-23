@@ -60,10 +60,6 @@
 ## 🧰 技术栈
 
 <p align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="嵌入式系统开发技术栈" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
